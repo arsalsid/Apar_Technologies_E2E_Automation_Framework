@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EndToEndSeleniumFramework" />
+        <module name="Binder_End_To_End_Automation_Framework" />
+        <module name="AkiroLabsGmbH_End_To_End_Automation_Framework" />
+        <module name="EndToEndTestNGFramework" />
+        <module name="NextGeni_E2E_Automation_Framework" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

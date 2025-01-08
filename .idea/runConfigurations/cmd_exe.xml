@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="cmd.exe" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="cmd.exe" />
+    <module name="EndToEndTestNGFramework" />
+    <option name="PROGRAM_PARAMETERS" value="C:\Users\marsalan.siddiqui\Downloads\EndToEndTestNGFramework\runsScript.bat" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

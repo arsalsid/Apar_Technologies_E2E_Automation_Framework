@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[======Launch Browser======]]>
+    </line>
+    <line>
+      <![CDATA[verifyTitleOfLandingPage test is starting.]]>
+    </line>
+    <line>
+      <![CDATA[verifyTitleOfLandingPage test is succeed.]]>
+    </line>
+    <line>
+      <![CDATA[enterProductItem test is starting.]]>
+    </line>
+    <line>
+      <![CDATA[enterProductItem test is succeed.]]>
+    </line>
+    <line>
+      <![CDATA[getProductItemResult test is starting.]]>
+    </line>
+    <line>
+      <![CDATA[getProductItemResult test is succeed.]]>
+    </line>
+    <line>
+      <![CDATA[======Browser Closed======]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-23T18:50:11 PKT" name="Google.com Website E2E Automation Suite" finished-at="2023-11-23T18:51:39 PKT" duration-ms="87736">
+    <groups>
+    </groups>
+    <test started-at="2023-11-23T18:50:11 PKT" name="Akirolabs GmbH" finished-at="2023-11-23T18:51:39 PKT" duration-ms="87736">
+      <class name="tests.E2ETest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.E2ETest@660f0e45]" started-at="2023-11-23T18:50:11 PKT" name="beforeTest" finished-at="2023-11-23T18:50:11 PKT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tests.E2ETest@660f0e45]" started-at="2023-11-23T18:50:11 PKT" name="launchBrowser" finished-at="2023-11-23T18:50:28 PKT" duration-ms="16427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[======Launch Browser======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyTitleOfLandingPage(java.lang.reflect.Method)[pri:0, instance:tests.E2ETest@660f0e45]" started-at="2023-11-23T18:50:28 PKT" name="verifyTitleOfLandingPage" description="Verify Title of landingPage" finished-at="2023-11-23T18:50:28 PKT" duration-ms="287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.E2ETest.verifyTitleOfLandingPage(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyTitleOfLandingPage test is starting.]]>
+            </line>
+            <line>
+              <![CDATA[verifyTitleOfLandingPage test is succeed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTitleOfLandingPage -->
+        <test-method signature="enterProductItem(java.lang.reflect.Method)[pri:1, instance:tests.E2ETest@660f0e45]" started-at="2023-11-23T18:50:28 PKT" name="enterProductItem" description="Enter product on google search bar Testcase-001" finished-at="2023-11-23T18:50:33 PKT" duration-ms="5199" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.E2ETest.enterProductItem(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[enterProductItem test is starting.]]>
+            </line>
+            <line>
+              <![CDATA[enterProductItem test is succeed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterProductItem -->
+        <test-method signature="getProductItemResult(java.lang.reflect.Method)[pri:2, instance:tests.E2ETest@660f0e45]" started-at="2023-11-23T18:50:33 PKT" name="getProductItemResult" description="Get the detail of product from result page and current url Testcase-002" finished-at="2023-11-23T18:51:39 PKT" duration-ms="65575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.E2ETest.getProductItemResult(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[getProductItemResult test is starting.]]>
+            </line>
+            <line>
+              <![CDATA[getProductItemResult test is succeed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getProductItemResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.E2ETest@660f0e45]" started-at="2023-11-23T18:51:39 PKT" name="tearDown" finished-at="2023-11-23T18:51:39 PKT" duration-ms="199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[======Browser Closed======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.E2ETest -->
+    </test> <!-- Akirolabs GmbH -->
+  </suite> <!-- Google.com Website E2E Automation Suite -->
+</testng-results>
