@@ -15,6 +15,10 @@ public class GetBooking  {
                                   .get("/booking/" + bookingId);
 
         Assert.assertEquals(response.getStatusCode(), expectedStatusCode,"Status code mismatch!");
+        // Assert the Content-Type header contains application/json
+        Assert.assertTrue(response.getHeader("Content-Type").contains("application/json"),
+                "Expected Content-Type to be application/json but received: " + response.getHeader("Content-Type"));
+
 
         if (expectedStatusCode == 200) {
             JSONUtils.saveResponseToFile(response, "Booking_" + bookingId + "_details.json");

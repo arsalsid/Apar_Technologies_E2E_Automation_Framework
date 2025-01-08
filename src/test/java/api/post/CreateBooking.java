@@ -2,6 +2,7 @@ package api.post;
 import api.base.BaseAPI;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import org.testng.Assert;
 import utils.JSONUtils;
 import java.io.IOException;
 
@@ -17,6 +18,10 @@ public class CreateBooking implements BookingRequest {
                 .post("/booking");
 
         response.then().log().all();
+
+        // Assert the Content-Type header contains application/json
+        Assert.assertTrue(response.getHeader("Content-Type").contains("application/json"),
+                "Expected Content-Type to be application/json but received: " + response.getHeader("Content-Type"));
 
         // validate the status code
         if (response.getStatusCode() != expectedStatusCode) {

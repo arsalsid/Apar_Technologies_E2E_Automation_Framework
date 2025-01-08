@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f674a6-e275-46f6-9e2c-b432de869642" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/post/BookingRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/request_JSON/CreateBookingEmptyRequest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/extent-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/extent-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/api/get/GetBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/get/GetBooking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/api/post/CreateBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/post/CreateBooking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/E2EAPIRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/E2EAPIRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Configuration/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_3262.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_3262_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_3302.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_3302_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4184.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4184_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4301.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Configuration/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_3262.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_3262_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_3302.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_3302_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4184.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4184_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4301.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4301_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_7822.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_7822_details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_7848.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_7848_details.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

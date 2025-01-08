@@ -69,7 +69,6 @@ public class E2EAPIRunner {
                         422  // expectedStatusCode
                 },
 
-
         };
     }
 
