@@ -11,7 +11,6 @@ import org.testng.ITestResult;
 import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
-import java.util.List;
 
 public class Utilities extends DriverFactory {
 

@@ -2,19 +2,15 @@ package tests;
 
 import api.get.GetBooking;
 import api.post.CreateBooking;
-import baseTest.DriverFactory;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
-import utils.Utilities;
 import utils.extentReports.ExtentManager;
 import utils.extentReports.ExtentTestManager;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
-import static utils.extentReports.ExtentTestManager.startTest;
 
 public class E2EAPIRunner {
 

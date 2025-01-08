@@ -11,6 +11,7 @@
         <module name="Binder_End_To_End_Automation_Framework" />
         <module name="AkiroLabsGmbH_End_To_End_Automation_Framework" />
         <module name="EndToEndTestNGFramework" />
+        <module name="Apar_Technologies_E2E_Automation_Framework" />
         <module name="NextGeni_E2E_Automation_Framework" />
       </profile>
     </annotationProcessing>

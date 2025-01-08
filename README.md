@@ -1,14 +1,13 @@
-# Created By Muhammad Arsalan for NextGeni_E2E_Automation_Framework by using Java Selenium and RestAssured with TestNG framework.
+# Created By Muhammad Arsalan for Apar_Technologies_E2E_Automation_Framework by using Java RestAssured with TestNG framework.
 # Description:
-This project contains automated tests for UI and API for Next Gen Innovation using Java with Selenium , RestAssured and TestNG framework. 
-The tests are designed to run on UI browser chrome, firefox and Edge along with Booking API for POST and GET request.
+This project contains automated tests for API for Apar Technologies using Java with RestAssured and TestNG framework. 
+The tests are designed to run End to End Booking API for POST and GET request.
 The tests follow Page Object Model Design pattern with Extent reporting. Moreover, The version controlling is used for code deployment is GitHub.
 
 
 # Tech and Tools:
 
 * Java (JDK 19) used as a Programming Language.
-* Selenium 4 used for Web UI automation
 * Rest Assured library for RestAPI automation
 * TestNG Framework: Used for Test case priority and execution of testcases
 * JSON library for json response
@@ -26,8 +25,8 @@ The tests follow Page Object Model Design pattern with Extent reporting. Moreove
 
 # Execution Method:
 
-* Method 001: Go to tests package and execute E2ETest class for UI and E2EAPIRunner for API execution.
-* Method 002: Go to root src package and execute webTestNG.xml file for UI automation and API.xml for API execution.
+* Method 001: Go to tests package and execute E2EAPIRunner for API execution.
+* Method 002: Go to root src package and execute API.xml for API execution.
 
 
 

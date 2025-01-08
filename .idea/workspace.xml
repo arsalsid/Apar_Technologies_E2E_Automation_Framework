@@ -5,15 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f674a6-e275-46f6-9e2c-b432de869642" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DuplicateCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Initiating Website.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/LandingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ProductDetailsPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ProductListingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ProductPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Shopping Cart Page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Failed_Test_Case_Report.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Failed_Test_Case_Report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Passed_Test_Case_Report.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Passed_Test_Case_Report.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/extent-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/extent-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/request_JSON/CreateBookingRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/request_JSON/CreateBookingRequest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/request_JSON/CreateBookingRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/request_JSON/CreateBookingRequest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseTest/DriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseTest/PropertyReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/constants/LandingPageEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/constants/ProductDetailsPageEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/constants/ProductListingPageEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/constants/ShoppingCartPageEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ProductDetailsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ProductListingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ShoppingCartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/E2EAPIRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/E2EAPIRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/E2ETest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/extentReports/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/extentReports/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Configuration/extent.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Configuration/extent.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_1311.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_1311_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_1354.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_1354_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_2284.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_2284_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_2333.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_2333_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4337.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4337_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4373.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/response_JSONBooking_4373_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Configuration/extent.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Configuration/extent.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_2284.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_2284_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_2333.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_2333_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4337.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4337_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4373.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/response_JSONBooking_4373_details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webTestNG.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +85,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DE_Framework/NextGeni_E2E_Automation_Framework&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/DE_Framework/Apar_Technologies_E2E_Automation_Framework",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rayomand\IdeaProjects\EndToEndTestNGFramework\src\test\resources\Configuration" />
@@ -75,7 +115,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondLargest">
+  <component name="RunManager" selected="TestNG.API.xml">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B" />
       <module name="NextGeni_E2E_Automation_Framework" />
@@ -90,13 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
-      <module name="NextGeni_E2E_Automation_Framework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SecondLargest" />
       <module name="NextGeni_E2E_Automation_Framework" />
@@ -105,7 +138,7 @@
       </method>
     </configuration>
     <configuration name="API.xml" type="TestNG" temporary="true">
-      <module name="NextGeni_E2E_Automation_Framework" />
+      <module name="Apar_Technologies_E2E_Automation_Framework" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/API.xml" />
@@ -123,96 +156,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Binder_End_To_End_Automation_Framework/webTestNG.xml" type="TestNG">
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/webTestNG.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E2ETest" type="TestNG" nameIsGenerated="true">
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.E2ETest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E2ETest.userLoginWithValidCredentials" type="TestNG" nameIsGenerated="true">
-      <module name="Binder_End_To_End_Automation_Framework" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.E2ETest" />
-      <option name="METHOD_NAME" value="userLoginWithValidCredentials" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.cmd.exe" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.DuplicateCharacters" />
       <item itemvalue="Application.SecondLargest" />
-      <item itemvalue="Application.Palindrome" />
-      <item itemvalue="TestNG.Binder_End_To_End_Automation_Framework/webTestNG.xml" />
-      <item itemvalue="TestNG.E2ETest" />
-      <item itemvalue="TestNG.E2ETest.userLoginWithValidCredentials" />
       <item itemvalue="TestNG.API.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.API.xml" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.DuplicateCharacters" />
         <item itemvalue="Application.B" />
         <item itemvalue="TestNG.API.xml" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
