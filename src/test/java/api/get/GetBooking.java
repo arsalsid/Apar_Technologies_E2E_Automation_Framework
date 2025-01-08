@@ -9,21 +9,28 @@ import java.io.IOException;
 
 public class GetBooking  {
 
-    public void getBookingById(String bookingId) throws IOException {
+    public void getBookingById(String bookingId, int expectedStatusCode) throws IOException {
 
         Response response= BaseAPI.setupRequest()
                                   .get("/booking/" + bookingId);
 
-        Assert.assertEquals(response.getStatusCode(), 200, "Booking not found!");
-        JSONUtils.saveResponseToFile(response, "Booking_" + bookingId + "_details.json");
+        Assert.assertEquals(response.getStatusCode(), expectedStatusCode,"Status code mismatch!");
+
+        if (expectedStatusCode == 200) {
+            JSONUtils.saveResponseToFile(response, "Booking_" + bookingId + "_details.json");
+        }
+        // Handle various error scenarios (400, 404, 500, etc.)
+        if (expectedStatusCode == 400) {
+            System.out.println("Bad Request: " + response.getBody().asString());
+        } else if (expectedStatusCode == 404) {
+            System.out.println("Booking Not Found: " + response.getBody().asString());
+        } else if (expectedStatusCode == 500) {
+            System.out.println("Internal Server Error: " + response.getBody().asString());
+        } else if (expectedStatusCode == 422) {
+            System.out.println("Unprocessable Entity. The server understood the request but couldn't process it. " + response.getBody().asString());
+        }
+
         response.then().log().all();
     }
 
-    public void getInvalidBooking(String invalidId) throws IOException {
-
-        Response response = BaseAPI.setupRequest()
-                                   .get("/booking/" + invalidId);
-        Assert.assertEquals(response.getStatusCode(),404, "Invalid booking ID check failed!");
-        response.then().log().all();
-    }
 }
